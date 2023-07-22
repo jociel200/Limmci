@@ -508,7 +508,7 @@ body {
   background-color: rgba(89, 113, 157, 0.2);
 }
 .status.disabled:before {
-  background-color: #00FFFF;
+  background-color: #9B30FF;
 }
 
 .gridView {
