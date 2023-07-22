@@ -504,11 +504,11 @@ body {
   background-color: #2ba972;
 }
 .status.disabled {
-  color: #59719d;
+  color: #00FFFF;
   background-color: rgba(89, 113, 157, 0.2);
 }
 .status.disabled:before {
-  background-color: #59719d;
+  background-color: #00FFFF;
 }
 
 .gridView {
